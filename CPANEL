@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bisnis Digital Otomatis</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  line-height: 1.6;
+}
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 40px 20px;
+}
+.hero {
+  text-align: center;
+}
+.hero h1 {
+  font-size: 38px;
+  color: #38bdf8;
+}
+.hero h2 {
+  font-size: 22px;
+  font-weight: normal;
+}
+.btn {
+  display: inline-block;
+  background: linear-gradient(135deg,#22c55e,#16a34a);
+  color: #fff;
+  padding: 16px 30px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.section {
+  margin-top: 70px;
+}
+.section h3 {
+  color: #38bdf8;
+  font-size: 28px;
+}
+.box {
+  background: #020617;
+  padding: 25px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+ul {
+  padding-left: 20px;
+}
+ul li {
+  margin-bottom: 10px;
+}
+.highlight {
+  color: #22c55e;
+  font-weight: bold;
+}
+.footer {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 14px;
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- HERO -->
+  <div class="hero">
+    <h1>Bangun Bisnis Digital Otomatis</h1>
+    <h2>Website & APK Android Milik Sendiri — Siap Jualan 24 Jam</h2>
+    <p>
+      Gratis <span class="highlight">Domain .COM</span> • 
+      <span class="highlight">500+ Produk Digital</span> • 
+      Tanpa Coding
+    </p>
+    <a href="https://wa.me/628xxxxxxx" class="btn">🔥 MULAI SEKARANG</a>
+  </div>
+
+  <!-- PROBLEM -->
+  <div class="section">
+    <h3>Kenapa Banyak Orang Gagal Jualan Online?</h3>
+    <div class="box">
+      <ul>
+        <li>❌ Jualan masih manual & capek balas chat</li>
+        <li>❌ Sudah bayar mahal, web terbatas</li>
+        <li>❌ Mau buka jasa web tapi nggak punya sistem</li>
+        <li>❌ Branding lemah & nggak profesional</li>
+      </ul>
+      <p><b>Solusinya bukan kerja lebih keras, tapi pakai SISTEM.</b></p>
+    </div>
+  </div>
+
+  <!-- SOLUTION -->
+  <div class="section">
+    <h3>Solusi Terbaik: Platform Bisnis Digital All In One</h3>
+    <div class="box">
+      <p>Dengan 1 platform ini, kamu bisa:</p>
+      <ul>
+        <li>✅ Punya website + brand sendiri</li>
+        <li>✅ Jualan 100% otomatis</li>
+        <li>✅ Terima pembayaran otomatis</li>
+        <li>✅ Bangun bisnis & jasa pembuatan web</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- FEATURES -->
+  <div class="section">
+    <h3>Fitur Unggulan</h3>
+    <div class="box">
+      <ul>
+        <li>✔ Gratis Domain .COM</li>
+        <li>✔ Brand & Logo Milik Sendiri</li>
+        <li>✔ Dashboard Admin & Member Lengkap</li>
+        <li>✔ 500+ Produk Digital Siap Jual</li>
+        <li>✔ Custom Harga & Warna Website</li>
+        <li>✔ 3 Payment Gateway Lengkap</li>
+        <li>✔ Bisa Buat Website Klien</li>
+        <li>✔ Produk Otomatis Terkirim</li>
+        <li>✔ APK Android</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- HOW IT WORKS -->
+  <div class="section">
+    <h3>Cara Kerja Sistem</h3>
+    <div class="box">
+      <ol>
+        <li>Buat & atur website</li>
+        <li>Pilih produk & harga</li>
+        <li>Promosikan link</li>
+        <li>Customer bayar otomatis</li>
+        <li>Produk langsung terkirim</li>
+        <li>Kamu fokus profit 💰</li>
+      </ol>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="section hero">
+    <h2>Jangan Tunggu Nanti. Mulai Sekarang.</h2>
+    <p>Bangun aset digital & penghasilan jangka panjang.</p>
+    <a href="https://wa.me/628xxxxxxx" class="btn">🚀 DAFTAR SEKARANG</a>
+  </div>
+
+  <div class="footer">
+    © 2026 Bisnis Digital Otomatis. All Rights Reserved.
+  </div>
+
+</div>
+
+</body>
+</html>
